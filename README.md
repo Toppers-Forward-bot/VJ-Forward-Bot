@@ -18,7 +18,7 @@
 - [x] Auto Restart Pending Task After Bot Restart 
 
 
-<b>To Know About All Features, Join My <a href='https://t.me/VJ_Botz'>Update Channel</a>.</b>
+<b>To Know About All Features, Join My <a href='https://t.me/SuperToppers'>Update Channel</a>.</b>
 
 ## Commands
 
@@ -44,4 +44,4 @@ broadcast - broadcast a message to all your users (owner only)
 
 ## Credits
 
-* <b>[Tech VJ](https://youtube.com/@Tech_VJ)</b>
+* <b>[Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs](https://youtube.com/@SuperToppers)</b>
